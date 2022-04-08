@@ -8,7 +8,7 @@
 
 ##  Notes
 
-1. Use whatever libraries you feel conformable with
+1. Use whichever libraries you feel conformable with
 2. Add your source code to GitHub and send us the link.
 
 Thanks!
